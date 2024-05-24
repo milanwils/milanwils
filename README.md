@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently working on gravitational wave data analysis.
+
+Neovim for life!
+
 <!--
 **milanwils/milanwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
